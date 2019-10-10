@@ -1,20 +1,24 @@
 {
-  "data": [
-    {
-      "PRODUCT": "NATUR 24H ANSIGTSCREME",
-      "PRICE": 119.95
-    },
-    {
-      "PRODUCT": "ZEND.JUNIOR ASTERIX",
-      "PRICE": 16.95
-    },
-    {
-      "PRODUCT": "ZEND.JUNIOR ASTERIX",
-      "PRICE": 16.95
-    },
-    {
-      "PRODUCT": "ORAL-B TANDP. STAGES",
-      "PRICE": 79.95
-    }
-  ]
+   "data":[
+      {
+         "EAN":1,
+         "PRODUCT":"NATUR 24H ANSIGTSCREME",
+         "PRICE":119.95
+      },
+      {
+         "EAN":2,
+         "PRODUCT":"ZEND.JUNIOR ASTERIX",
+         "PRICE":16.95
+      },
+      {
+         "EAN":2,
+         "PRODUCT":"ZEND.JUNIOR ASTERIX",
+         "PRICE":16.95
+      },
+      {
+         "EAN":3,
+         "PRODUCT":"ORAL-B TANDP. STAGES",
+         "PRICE":79.95
+      }
+   ]
 }
