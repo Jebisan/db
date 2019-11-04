@@ -1,24 +1,28 @@
 {
    "data":[
       {
-         "EAN":1,
-         "PRODUCT":"NATUR 24H ANSIGTSCREME",
-         "PRICE":119.95
+          "Quantity":2,
+          "Product":{
+              "EAN":1,
+             "PRODUCT":"NATUR 24H ANSIGTSCREME",
+             "PRICE":119.95   
+          }
       },
       {
-         "EAN":2,
-         "PRODUCT":"ZEND.JUNIOR ASTERIX",
-         "PRICE":16.95
+          "Quantity":3,
+          "Product":{
+              "EAN":2,
+            "PRODUCT":"ZEND.JUNIOR ASTERIX",
+            "PRICE":16.95   
+          }
       },
       {
-         "EAN":2,
-         "PRODUCT":"ZEND.JUNIOR ASTERIX",
-         "PRICE":16.95
-      },
-      {
-         "EAN":3,
-         "PRODUCT":"ORAL-B TANDP. STAGES",
-         "PRICE":79.95
+          "Quantity":2,
+          "Product":{
+              "EAN":3,
+            "PRODUCT":"ORAL-B TANDP. STAGES",
+            "PRICE":79.95
+          }
       }
    ]
 }
